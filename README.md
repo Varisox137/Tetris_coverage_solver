@@ -8,7 +8,7 @@ Solves puzzles that require players to use some 4-tiled Tetris blocks to cover a
 
 At first this program is meant to help solving puzzles of the Steam game ***Sigils of Elohim***.
 
-While searching for inspiration and suitable algorithms, I happened to see [this post]([跳跃的舞者，舞蹈链（Dancing Links）算法——求解精确覆盖问题 - 万仓一黍 - 博客园 (cnblogs.com)](https://www.cnblogs.com/grenet/p/3145800.html)) , linking the problem to the so-called ***Exact-Covering Problem*** , and by using the smart ***Dancing Links*** data structure, great improvements are made out of plain brute-force enumeration.
+While searching for inspiration and suitable algorithms, I happened to see [this post](https://www.cnblogs.com/grenet/p/3145800.html) , linking the problem to the so-called ***Exact-Covering Problem*** , and by using the smart ***Dancing Links*** data structure, great improvements are made out of plain brute-force enumeration.
 
 #### Usage
 
